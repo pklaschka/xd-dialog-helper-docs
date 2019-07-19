@@ -1,0 +1,38 @@
+{
+  "docs": {
+    "Getting started": [
+      "installation",
+      "first-dialog",
+      "wysiwyg-editor",
+      "validation",
+      "options",
+      "custom-types"
+    ],
+    "Examples": [
+			"examples--hello-world-dialog",
+      "examples--replace-text",
+			"examples--lorem-dialog"
+    ],
+    "Reference": [
+      "reference--showDialog",
+      "reference--ActionList",
+      "reference--ContentElementDeclaration",
+      "reference--ContentElement",
+      "reference--ContentElementType",
+      {
+        "type": "subcategory",
+        "label": "Types",
+        "ids": [
+          "reference--types-checkbox",
+          "reference--types-header",
+          "reference--types-hr",
+          "reference--types-select",
+          "reference--types-slider",
+          "reference--types-text",
+          "reference--types-text_area",
+          "reference--types-text_input"
+        ]
+      }
+    ]
+  }
+}
