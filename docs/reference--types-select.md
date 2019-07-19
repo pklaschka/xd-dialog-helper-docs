@@ -1,7 +1,7 @@
 ---
 id: reference--types-select
-title: Select/ Dropdown
-sidebar_label: Select/ Dropdown
+title: Select / Dropdown
+sidebar_label: Select / Dropdown
 ---
 ![](assets/element-select.png)
 
