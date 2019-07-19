@@ -131,6 +131,6 @@ console.log('Hello, ' + results['name']);
 ```
 If we take one last look at the console, after running our plugin again, we get to see a nice greeting:
 
-```
+```bash
 Hello, Peter Parker
 ```

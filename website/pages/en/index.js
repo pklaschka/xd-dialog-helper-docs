@@ -144,7 +144,7 @@ that lets you generate the code for a modal you put together. The code is perfec
 readable and easy to edit, meaning you can quickly build a first iteration of your dialog 
 and refine from there...
               
-[WYSIWYG-Editor](https://xd-dialog-helper-editor.pabloklaschka.de)`,
+[WYSIWYG-Editor](${baseUrl}editor)`,
             image: `${baseUrl}img/undraw_building_blocks_n0nc.svg`,
             imageAlign: 'right',
             align: 'left',

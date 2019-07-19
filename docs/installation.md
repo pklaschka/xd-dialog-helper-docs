@@ -21,7 +21,7 @@ for UXP 3+, meaning it is tested for versions >= 21.0 of Adobe XD. It'll
 ### Option 1: Using npm (with a bundling service like webpack)
 The most comfortable way to use the library is to use some bundling tool like webpack and simply install `xd-dialog-helper` via npm. To do so, run
 
-```
+```bash
 npm install xd-dialog-helper
 ```
 
