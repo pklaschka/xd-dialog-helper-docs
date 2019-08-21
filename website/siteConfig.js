@@ -40,7 +40,7 @@ const siteConfig = {
   title: 'xd-dialog-helper', // Title for your website.
   tagline: 'Create dialogs in plugins for Adobe XD CC with ease',
   url: 'https://xd-dialog-helper.pabloklaschka.de', // Your website URL
-  baseUrl: '/editor/', // Base URL for your project */
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
