@@ -34,6 +34,14 @@ const users = [
     infoLink: 'https://xdplugins.pabloklaschka.de/plugins/markdown',
     pinned: true,
   },
+  {
+    caption: 'Tunda Image',
+    // You will need to prepend the image path with your baseUrl
+    // if it is not '/', like: '/test-site/img/image.jpg'.
+    image: '/img/users/tunda-image.png',
+    infoLink: 'https://github.com/satriaajiputra/tunda-image',
+    pinned: true,
+  },
 ];
 
 const siteConfig = {
